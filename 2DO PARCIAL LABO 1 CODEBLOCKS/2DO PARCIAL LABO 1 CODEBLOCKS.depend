@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1624968286 source:e:\leandro\utnfra\programacion i laboratorio i\parciales\2do parcial labo 1 2021 codeblocks\2do parcial labo 1 codeblocks\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Libro.h"
+
+1624966318 e:\leandro\utnfra\programacion i laboratorio i\parciales\2do parcial labo 1 2021 codeblocks\2do parcial labo 1 codeblocks\linkedlist.h
+
+1624972188 source:e:\leandro\utnfra\programacion i laboratorio i\parciales\2do parcial labo 1 2021 codeblocks\2do parcial labo 1 codeblocks\seoane.c
+	"seoane.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1624972052 e:\leandro\utnfra\programacion i laboratorio i\parciales\2do parcial labo 1 2021 codeblocks\2do parcial labo 1 codeblocks\seoane.h
+
+1624972107 source:e:\leandro\utnfra\programacion i laboratorio i\parciales\2do parcial labo 1 2021 codeblocks\2do parcial labo 1 codeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+	"Libro.h"
+	"LinkedList.h"
+	"Seoane.h"
+
+1624972497 source:e:\leandro\utnfra\programacion i laboratorio i\parciales\2do parcial labo 1 2021 codeblocks\2do parcial labo 1 codeblocks\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Seoane.h"
+	"parser.h"
+	"Libro.h"
+	"LinkedList.h"
+	"Controller.h"
+
+1624967748 source:e:\leandro\utnfra\programacion i laboratorio i\parciales\2do parcial labo 1 2021 codeblocks\2do parcial labo 1 codeblocks\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"Libro.h"
+	"LinkedList.h"
+
+1624966418 source:e:\leandro\utnfra\programacion i laboratorio i\parciales\2do parcial labo 1 2021 codeblocks\2do parcial labo 1 codeblocks\libro.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Libro.h"
+
+1624966318 e:\leandro\utnfra\programacion i laboratorio i\parciales\2do parcial labo 1 2021 codeblocks\2do parcial labo 1 codeblocks\libro.h
+
+1624972722 e:\leandro\utnfra\programacion i laboratorio i\parciales\2do parcial labo 1 2021 codeblocks\2do parcial labo 1 codeblocks\parser.h
+	"LinkedList.h"
+
+1624971368 e:\leandro\utnfra\programacion i laboratorio i\parciales\2do parcial labo 1 2021 codeblocks\2do parcial labo 1 codeblocks\controller.h
+	"LinkedList.h"
+
